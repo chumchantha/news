@@ -1,6 +1,5 @@
-import ColumCard from "../../../components/ColumCard";
-import HeaderSection from "../../../components/HeaderSection";
-import { data, iData } from "@/data";
+import HeaderSection from "@/components/HeaderSection";
+import { data } from "@/data";
 
 const Sport = () => {
   return (

@@ -1,9 +1,3 @@
-export interface iData {
-  id: number;
-  imageUrl: string;
-  title: string;
-}
-
 export const data = [
   {
     id: 1,
